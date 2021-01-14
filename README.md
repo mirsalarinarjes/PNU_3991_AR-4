@@ -4,7 +4,7 @@
  
 ---
 - [github](https://github.com/parvinhajatpour)
-- [PNU_3991_AR](parvinhajatpour.github.io/PNU_3991_AR)
+- [PNU_3991_AR](https://github.com/parvinhajatpour/PNU_3991_AR))
 - [resume](https://github.com/parvinhajatpour/PNU_3991_AR/blob/main/parvinhajatpour.github.io/resume)
 - [English resume](parvinhajatpour.github.io/resume/resumeen/)
 - [SOP](https://github.com/parvinhajatpour/Sop.github.io) 
