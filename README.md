@@ -8,7 +8,7 @@
 - [resume](https://parvinhajatpour.github.io/)
 - [SOP](https://parvinhajatpour.github.io/Sop.github.io/) 
 - [javascript Certificate](https://parvinhajatpour.github.io/Certificates/)
-- [jlord patchwork](https://github.com/parvinhajatpour/PNU_3991_AR/blob/main/pacthwork.png)
+- [jlord patchwork](https://parvinhajatpour.github.io/parvin-hajatpour-patchwork/)
   
   --------------
 >ارزیابی ها
