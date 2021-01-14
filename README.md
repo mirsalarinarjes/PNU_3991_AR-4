@@ -9,7 +9,7 @@
 - [English resume](parvinhajatpour.github.io/resume/resumeen/)
 - [SOP](https://github.com/parvinhajatpour/PNU_3991_AR/blob/main/parvinhajatpour.github.io/SOP) 
 - [javascript Certificate](parvinhajatpour.github.io/JScertificate/)
-- [jlord patchwork](parvinhajatpour.github.io/Patchworkpic/)
+- [jlord patchwork](https://github.com/parvinhajatpour/PNU_3991_AR/blob/main/parvinhajatpour.github.io/Patchworkpic)
   
   --------------
 >ارزیابی ها
