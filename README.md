@@ -10,7 +10,7 @@
 - [javascript Certificate](https://parvinhajatpour.github.io/Certificates/)
 - [jlord patchwork](https://parvinhajatpour.github.io/parvin-hajatpour-patchwork/)
   
-  --------------
+  ---------------
 >ارزیابی ها
 
 ## ارزیابی بخش عمومی 
