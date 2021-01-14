@@ -14,7 +14,7 @@
 >ارزیابی ها
 
 ## ارزیابی بخش عمومی 
--[ارزیابی رزومه  و انگیزه نامه ](parvinhajatpour.github.io/Validation/validation1/)
+-[ارزیابی رزومه  و انگیزه نامه ](https://github.com/parvinhajatpour/PNU_3991_AR/blob/main/General/PH_CV_CheckList_AR_3991.pdf)
 
 -[ارزیابی بخش عمومی ](https://github.com/parvinhajatpour/PNU_3991_AR/blob/main/General/PH_GeneralSection_CheckList_AR_3991.pdf)
 
