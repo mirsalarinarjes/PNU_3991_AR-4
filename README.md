@@ -3,9 +3,9 @@
 ### پروین حاجت پور بیرگانی
  
 ---
-- [github](https://parvinhajatpour.github.io)
+- [github](https://github.com/parvinhajatpour)
 - [PNU_3991_AR](parvinhajatpour.github.io/PNU_3991_AR)
-- [resume](parvinhajatpour.github.io/css/css/RESUME.EN.html)
+- [resume](https://github.com/parvinhajatpour/PNU_3991_AR/blob/main/parvinhajatpour.github.io/resume)
 - [English resume](parvinhajatpour.github.io/resume/resumeen/)
 - [SOP](https://github.com/parvinhajatpour/Sop.github.io) 
 - [javascript Certificate](parvinhajatpour.github.io/JScertificate/)
