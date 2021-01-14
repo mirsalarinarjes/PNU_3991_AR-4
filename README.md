@@ -16,7 +16,7 @@
 ## ارزیابی بخش عمومی 
 -[ارزیابی رزومه  و انگیزه نامه ](parvinhajatpour.github.io/Validation/validation1/)
 
--[ارزیابی بخش عمومی ](parvinhajatpour.github.io/Validation/validation2/)
+-[ارزیابی بخش عمومی ](https://github.com/parvinhajatpour/PNU_3991_AR/blob/main/General/PH_GeneralSection_CheckList_AR_3991.pdf)
 
 ## ارزیابی دروس کارشناسی ارشد
 -[ارزیابی درس الگوریتم پیشرفته ]()
