@@ -7,7 +7,7 @@
 - [PNU_3991_AR](https://github.com/parvinhajatpour/PNU_3991_AR)
 - [resume](https://parvinhajatpour.github.io/)
 - [SOP](https://parvinhajatpour.github.io/Sop.github.io/) 
-- [javascript Certificate](  https://parvinhajatpour.github.io/parvinhajatpour.github.io-jscertificate-/)
+- [javascript Certificate](https://parvinhajatpour.github.io/jscertificate/)
 - [jlord patchwork]( https://parvinhajatpour.github.io/patchwork.jpg/)
   
   ---------------
