@@ -19,15 +19,10 @@
 -[ارزیابی بخش عمومی ](https://github.com/parvinhajatpour/PNU_3991_AR/blob/main/General/PH_GeneralSection_CheckList_AR_3991.pdf)
 
 ## ارزیابی دروس کارشناسی ارشد
--[ارزیابی درس الگوریتم پیشرفته ]()
+-[ارزیابی درس الگوریتم پیشرفته ](https://github.com/parvinhajatpour/PNU_3991_AR/blob/main/PH_AdvancedAlgorithms_CheckList_AR_3991.pdf)
 
 ------------------
 
-# تمرین ها
-1. [G-A03]
-    1. [Convex-Hull]
-    1. [Binary search tree](https://www.aparat.com/v/mE1XP) and [Bubble Sort](https://aparat.com/v/jk90Q)
-    1. [Ford-fulkerson](https://github.com/bahssanbeygi/ford-fulkerson)
 # گروه ها
 1. [G-A03](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms/1115025_01)
 
