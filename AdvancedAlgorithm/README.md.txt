@@ -16,7 +16,7 @@
 
 # تمرین ها
 1. [G-A03]
-    1. [Edmonds-karp]
+    1. [convex-Hull]
     1. [Binary search tree](https://www.aparat.com/v/mE1XP) and [Bubble Sort](https://aparat.com/v/jk90Q)
     1. [Ford-fulkerson](https://github.com/bahssanbeygi/ford-fulkerson)
 # گروه ها
