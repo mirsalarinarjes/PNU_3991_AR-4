@@ -15,7 +15,7 @@
 --------------------
 
 ## ارزیابی دروس کارشناسی ارشد
--[ارزیابی درس الگوریتم پیشرفته ](https://github.com/parvinhajatpour/PNU_3991_AR/blob/main/PH_AdvancedAlgorithms_CheckList_AR_3991.pdf)
+-[ارزیابی درس الگوریتم پیشرفته ](https://github.com/parvinhajatpour/PNU_3991_AR/blob/main/Advanced%20Algorithm/PH_AdvancedAlgorithms_CheckList_AR_3991.pdf)
 
 
 ---------------------
