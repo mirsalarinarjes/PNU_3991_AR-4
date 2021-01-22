@@ -34,7 +34,7 @@
 
 ## دروس کارشناسی ارشد
 
-[1115025_01_166   الگوریتم پیشرفته ](https://github.com/mirsalarinarjes/PNU_3991_AR/blob/main/AdvancedAlgorithms)
+[1115025_01_166   الگوریتم پیشرفته ](https://github.com/parvinhajatpour/PNU_3991_AR/blob/main/AdvancedAlgorithms)
 <br>
 
 --------------
