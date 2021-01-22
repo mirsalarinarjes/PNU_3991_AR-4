@@ -10,7 +10,7 @@
     
  ------------------
  1. [تمرین فردی]
-     1. [Convex-Hull]()
+     1. [Convex-Hull](https://www.aparat.com/v/3WB7c)
     
 --------------------
 
